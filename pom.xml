@@ -7,6 +7,7 @@
         <module>PhoneNumber</module>
         <module>DisemvowelTrolls</module>
         <module>MorseCodeDecoder</module>
+        <module>DigPow</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
